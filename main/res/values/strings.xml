@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notas</string>
+    <string name="organizar_tarefas">organizar tarefas</string>
+    <string name="voltar">voltar</string>
+</resources>
